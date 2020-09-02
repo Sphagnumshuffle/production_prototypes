@@ -2,3 +2,5 @@
 
 # production_prototypes
 Repo to test out different production options for ML model deployments
+
+Hit the link(s) above to try out my simple ML model deployments. Note that the Binder takes a while to start up, so be patient!
